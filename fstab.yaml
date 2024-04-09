@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p15404-e146221-cmstg.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p132653-e1287758.adobeaemcloud.com/bin/franklin.delivery/bmw-importers-msm/bmw-importers-blueprint/main"
     type: "markup"
     suffix: ".html"
