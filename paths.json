@@ -3,5 +3,5 @@
     "/content/metafox-msm-test/language-masters/:/",
     "/content/dam/metafox-msm-test/:/assets/"
 ],
-  "includes": ["/content/metafox-msm-test/","/content/dam/metafox-msm-test/"]
+  "includes": ["/content/metafox-msm-test/language-masters/","/content/dam/metafox-msm-test/"]
 }
