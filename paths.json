@@ -1,15 +1,9 @@
 {
   "mappings": [
     "/content/metafox-msm-demo/language-masters/:/",
-    "/content/metafox-msm-demo/language-masters/en/:/",
+    "/content/metafox-msm-demo/language-masters/en/:/en",
     "/content/metafox-msm-demo/language-masters/sr:/sr",
-    "/content/metafox-msm-demo/language-masters/sr/:/sr/",
-    "/content/metafox-msm-demo/language-masters/de_at:/de_at",
-    "/content/metafox-msm-demo/language-masters/de_at/:/de_at/",
-    "/content/metafox-msm-demo/language-masters/de_de:/de_de",
-    "/content/metafox-msm-demo/language-masters/de_de/:/de_de/",
-    "/content/metafox-msm-demo/language-masters/fr_fr:/fr_fr",
-    "/content/metafox-msm-demo/language-masters/fr_fr/:/fr_fr/"
+    "/content/dam/metafox-msm-demo:/assets/"
 ],
-  "includes": ["/content/metafox-msm-demo/language-masters/en/","/content/metafox-msm-demo/language-masters/sr/","/content/metafox-msm-demo/language-masters/de_at/:/","/content/metafox-msm-demo/language-masters/de_de/","/content/metafox-msm-demo/language-masters/fr_fr/"]
+  "includes": ["/content/metafox-msm-demo/language-masters/","/content/dam/metafox-msm-demo/"]
 }
