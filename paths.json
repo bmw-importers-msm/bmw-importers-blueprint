@@ -1,9 +1,7 @@
 {
   "mappings": [
-    "/content/metafox-msm-demo/language-masters/:/",
-    "/content/metafox-msm-demo/language-masters/en/:/en/",
-    "/content/metafox-msm-demo/language-masters/sr/:/sr/",
-    "/content/dam/metafox-msm-demo/:/assets/"
+    "/content/metafox-msm-test/language-masters/:/",
+    "/content/dam/metafox-msm-test/:/assets/"
 ],
-  "includes": ["/content/metafox-msm-demo/","/content/dam/metafox-msm-demo/"]
+  "includes": ["/content/metafox-msm-test/","/content/dam/metafox-msm-test/"]
 }
