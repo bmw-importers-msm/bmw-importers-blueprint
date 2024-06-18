@@ -5,5 +5,5 @@
     "/content/metafox-msm-demo/language-masters/sr/:/sr/",
     "/content/dam/metafox-msm-demo/:/assets/"
 ],
-  "includes": ["/content/metafox-msm-demo/language-masters/","/content/dam/metafox-msm-demo/"]
+  "includes": ["/content/metafox-msm-demo/","/content/dam/metafox-msm-demo/"]
 }
